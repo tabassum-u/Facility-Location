@@ -1,5 +1,5 @@
 # Facility-Location_genetic_algorithm
-[This work is a mixed-integer linear optimization problem. This is a multi-objective optimization problem and the weighted sum method has been applied to solve the problem.] Received help from (https://www.linkedin.com/pulse/solving-capacitated-warehouse-location-problem-using-genetic/)  
+Received help from (https://www.linkedin.com/pulse/solving-capacitated-warehouse-location-problem-using-genetic/)  
 ![Untitled](https://user-images.githubusercontent.com/66154088/169666147-a3f11247-c6a7-4930-a82c-43b051b0530f.jpg)
 ![Untitled1](https://user-images.githubusercontent.com/66154088/169666187-b2ee5218-726a-40fe-bf40-62c70cf052f7.jpg)
 ![Untitled2](https://user-images.githubusercontent.com/66154088/169666219-67b96fba-153e-4659-86eb-1b81a0d8c60d.jpg)
